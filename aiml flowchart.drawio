@@ -1,0 +1,119 @@
+<mxfile host="app.diagrams.net" modified="2023-06-23T06:41:42.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qgGA7on_jDVVpbZCUubR" version="21.5.0" type="device">
+  <diagram name="Page-1" id="dsrivd7MURf1ycQgxhsB">
+    <mxGraphModel dx="1941" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SNx5YMlsgh2gVNEJ0Mq--1" target="SNx5YMlsgh2gVNEJ0Mq--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Start&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNx5YMlsgh2gVNEJ0Mq--2" target="SNx5YMlsgh2gVNEJ0Mq--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Take Dataset Uncleaned&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNx5YMlsgh2gVNEJ0Mq--3" target="SNx5YMlsgh2gVNEJ0Mq--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;check error in dataset&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNx5YMlsgh2gVNEJ0Mq--4" target="SNx5YMlsgh2gVNEJ0Mq--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;cleaned dataset and save&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="135" width="165" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNx5YMlsgh2gVNEJ0Mq--5" target="SNx5YMlsgh2gVNEJ0Mq--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;create model using ml concept&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="270" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNx5YMlsgh2gVNEJ0Mq--6" target="SNx5YMlsgh2gVNEJ0Mq--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;after creating&amp;nbsp; run the code in Jupyter give prediction&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="255" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNx5YMlsgh2gVNEJ0Mq--7" target="SNx5YMlsgh2gVNEJ0Mq--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Use Pycharm make webpage and run code&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="263.75" width="180" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNx5YMlsgh2gVNEJ0Mq--8" target="SNx5YMlsgh2gVNEJ0Mq--10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="530" />
+              <mxPoint x="140" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNx5YMlsgh2gVNEJ0Mq--8" target="SNx5YMlsgh2gVNEJ0Mq--13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="530" />
+              <mxPoint x="740" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SNx5YMlsgh2gVNEJ0Mq--8" target="SNx5YMlsgh2gVNEJ0Mq--11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="532" />
+              <mxPoint x="290" y="532" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SNx5YMlsgh2gVNEJ0Mq--9" target="SNx5YMlsgh2gVNEJ0Mq--12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="561" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-10" y="564" />
+              <mxPoint x="-10" y="531" />
+              <mxPoint x="455" y="531" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;open page and enter feature&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="410" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;name of car&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="563.5" width="135" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--10" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;company name&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="564.75" width="120" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SNx5YMlsgh2gVNEJ0Mq--11" target="SNx5YMlsgh2gVNEJ0Mq--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;year&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="220" y="564.75" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;travelled in kms&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="561" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--13" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;fuel type&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="670" y="567.25" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--14" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Price&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="563.5" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SNx5YMlsgh2gVNEJ0Mq--15" target="SNx5YMlsgh2gVNEJ0Mq--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Predict Price&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="700" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SNx5YMlsgh2gVNEJ0Mq--16" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;In Webpage predict page&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="820" width="165" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
